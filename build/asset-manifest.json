@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/searchflix/static/css/main.b500a862.chunk.css",
-    "main.js": "/searchflix/static/js/main.5cf6f2db.chunk.js",
-    "main.js.map": "/searchflix/static/js/main.5cf6f2db.chunk.js.map",
+    "main.css": "/searchflix/static/css/main.e94d326f.chunk.css",
+    "main.js": "/searchflix/static/js/main.5677cc45.chunk.js",
+    "main.js.map": "/searchflix/static/js/main.5677cc45.chunk.js.map",
     "runtime-main.js": "/searchflix/static/js/runtime-main.9a9507bd.js",
     "runtime-main.js.map": "/searchflix/static/js/runtime-main.9a9507bd.js.map",
     "static/css/2.65e8e33d.chunk.css": "/searchflix/static/css/2.65e8e33d.chunk.css",
-    "static/js/2.14383a28.chunk.js": "/searchflix/static/js/2.14383a28.chunk.js",
-    "static/js/2.14383a28.chunk.js.map": "/searchflix/static/js/2.14383a28.chunk.js.map",
+    "static/js/2.91001989.chunk.js": "/searchflix/static/js/2.91001989.chunk.js",
+    "static/js/2.91001989.chunk.js.map": "/searchflix/static/js/2.91001989.chunk.js.map",
     "index.html": "/searchflix/index.html",
-    "precache-manifest.64f80088dc39e03b12e381c6f8a1c270.js": "/searchflix/precache-manifest.64f80088dc39e03b12e381c6f8a1c270.js",
+    "precache-manifest.3f03feb3fbfa375accb8568b05cde53c.js": "/searchflix/precache-manifest.3f03feb3fbfa375accb8568b05cde53c.js",
     "service-worker.js": "/searchflix/service-worker.js",
     "static/css/2.65e8e33d.chunk.css.map": "/searchflix/static/css/2.65e8e33d.chunk.css.map",
-    "static/css/main.b500a862.chunk.css.map": "/searchflix/static/css/main.b500a862.chunk.css.map",
-    "static/js/2.14383a28.chunk.js.LICENSE.txt": "/searchflix/static/js/2.14383a28.chunk.js.LICENSE.txt",
+    "static/css/main.e94d326f.chunk.css.map": "/searchflix/static/css/main.e94d326f.chunk.css.map",
+    "static/js/2.91001989.chunk.js.LICENSE.txt": "/searchflix/static/js/2.91001989.chunk.js.LICENSE.txt",
     "static/media/primereact.min.css": "/searchflix/static/media/color.c7a33805.png",
     "static/media/none.jpg": "/searchflix/static/media/none.44292c8e.jpg",
     "static/media/primeicons.css": "/searchflix/static/media/primeicons.b0f5d02f.eot"
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.9a9507bd.js",
     "static/css/2.65e8e33d.chunk.css",
-    "static/js/2.14383a28.chunk.js",
-    "static/css/main.b500a862.chunk.css",
-    "static/js/main.5cf6f2db.chunk.js"
+    "static/js/2.91001989.chunk.js",
+    "static/css/main.e94d326f.chunk.css",
+    "static/js/main.5677cc45.chunk.js"
   ]
 }
