@@ -4,7 +4,6 @@ import { Button } from "primereact/button";
 import { InputText } from "primereact/inputtext";
 import { connect } from "react-redux";
 import { storeData } from "../redux";
-import YearRange from "./YearRange";
 
 
 class MyNavbar extends Component {
@@ -38,9 +37,10 @@ class MyNavbar extends Component {
         ) : (
           ""
         )}
-        <div inline style = {{display: "flex",justifyContent: "center",backgroundColor: "#001a33"}} >
-            <Form style = {{paddingLeft : "1%",paddingRight : "1%",display: "flex",justifyContent: "center"}}>
+        <div className = "searchbar" inline style = {{display: "flex",justifyContent: "center",backgroundColor: "#001a33",boxSizing: "border-box",	width:"100%"}} >
+            <Form style = {{paddingRight : "0.5%",display: "flex",justifyContent: "center"}}>
                 <InputText
+                  id="example1" className="form-control form-control-lg"
                   value={this.state.title}
                   placeholder="Lookup a movie..."
                   onChange={(e) => {
@@ -48,7 +48,6 @@ class MyNavbar extends Component {
                   }}
                 />
             </Form>
-            <YearRange/>
             <Button  className="p-button-raised p-button-rounded" style={{marginRight: "1%",marginLeft: "1%",fontSize: "80%", justifyContent:"center",border:"transparent",outline: "none"}} label="Search" onClick={this.handleSearch} onKeyDown={this.handleSearch}  />
             </div>
 

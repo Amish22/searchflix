@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/searchflix/static/css/main.b500a862.chunk.css",
-    "main.js": "/searchflix/static/js/main.4c6ddea2.chunk.js",
-    "main.js.map": "/searchflix/static/js/main.4c6ddea2.chunk.js.map",
+    "main.js": "/searchflix/static/js/main.5cf6f2db.chunk.js",
+    "main.js.map": "/searchflix/static/js/main.5cf6f2db.chunk.js.map",
     "runtime-main.js": "/searchflix/static/js/runtime-main.9a9507bd.js",
     "runtime-main.js.map": "/searchflix/static/js/runtime-main.9a9507bd.js.map",
     "static/css/2.65e8e33d.chunk.css": "/searchflix/static/css/2.65e8e33d.chunk.css",
     "static/js/2.14383a28.chunk.js": "/searchflix/static/js/2.14383a28.chunk.js",
     "static/js/2.14383a28.chunk.js.map": "/searchflix/static/js/2.14383a28.chunk.js.map",
     "index.html": "/searchflix/index.html",
-    "precache-manifest.19c068a9292f63c35c6b2e3fa36397f8.js": "/searchflix/precache-manifest.19c068a9292f63c35c6b2e3fa36397f8.js",
+    "precache-manifest.64f80088dc39e03b12e381c6f8a1c270.js": "/searchflix/precache-manifest.64f80088dc39e03b12e381c6f8a1c270.js",
     "service-worker.js": "/searchflix/service-worker.js",
     "static/css/2.65e8e33d.chunk.css.map": "/searchflix/static/css/2.65e8e33d.chunk.css.map",
     "static/css/main.b500a862.chunk.css.map": "/searchflix/static/css/main.b500a862.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.65e8e33d.chunk.css",
     "static/js/2.14383a28.chunk.js",
     "static/css/main.b500a862.chunk.css",
-    "static/js/main.4c6ddea2.chunk.js"
+    "static/js/main.5cf6f2db.chunk.js"
   ]
 }
