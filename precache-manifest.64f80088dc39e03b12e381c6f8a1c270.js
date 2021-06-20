@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1c740346a81d408e7ddd5c866597d941",
+    "revision": "be498715d60860630686881b9893c828",
     "url": "/searchflix/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/searchflix/static/css/2.65e8e33d.chunk.css"
   },
   {
-    "revision": "a64bbb1e135d899c791f",
+    "revision": "dbee4c26467bdac72f9b",
     "url": "/searchflix/static/css/main.b500a862.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/searchflix/static/js/2.14383a28.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a64bbb1e135d899c791f",
-    "url": "/searchflix/static/js/main.6054b56c.chunk.js"
+    "revision": "dbee4c26467bdac72f9b",
+    "url": "/searchflix/static/js/main.5cf6f2db.chunk.js"
   },
   {
     "revision": "fdc3b743082cd19a506c",
