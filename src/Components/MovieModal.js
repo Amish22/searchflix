@@ -47,7 +47,7 @@ export default class MovieModal extends Component {
                     }
                     alt={this.state.selectedFilm.Title}
                   />
-                </div>npm 
+                </div>
               </Form.Group>
               <Form.Group controlId="exampleForm.ControlInput1">
                 <Form.Label>
