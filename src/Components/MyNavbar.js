@@ -27,7 +27,7 @@ class MyNavbar extends Component {
       <div>
         {this.state.ismounted ? (
           <Navbar style = {{justifyContent:"center",letterSpacing:"0.5rem"}}>
-            <Navbar.Brand href="../redux/DefaultPage.js" style = {{color: "whitesmoke"}} className = "navbar" >
+            <Navbar.Brand  style = {{color: "whitesmoke"}} className = "navbar" >
               <h1>SEARCHFLIX</h1>
             </Navbar.Brand>
             
