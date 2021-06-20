@@ -12,7 +12,7 @@ export default class MovieModal extends Component {
   componentDidUpdate = (prevProps) => {
     if (prevProps.selectedFilmId !== this.props.selectedFilmId) {
       fetch(
-        `http://www.omdbapi.com/?i=${this.props.selectedFilmId}&apikey=7de47267`
+        `https://www.omdbapi.com/?i=${this.props.selectedFilmId}&apikey=7de47267`
       )
         .then((resp) => resp)
         .then((resp) => resp.json())

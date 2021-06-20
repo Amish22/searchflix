@@ -44,7 +44,7 @@ export default class Movies extends Component {
   }
   fetchData = (pageNumber) => {
     return fetch(
-      `http://www.omdbapi.com/?s=${this.props.title}&apikey=7de47267&page=${pageNumber}&y=${this.props.year}&type=${"movie"}`
+      `https://www.omdbapi.com/?s=${this.props.title}&apikey=7de47267&page=${pageNumber}&y=${this.props.year}&type=${"movie"}`
     )
       .then((resp) => resp)
       .then((resp) => resp.json())
